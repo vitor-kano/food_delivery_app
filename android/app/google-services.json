@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107745422947",
+    "project_id": "vitorkanofooddelivery",
+    "storage_bucket": "vitorkanofooddelivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107745422947:android:83dfc73df33bd2346c5256",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery_app_backend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF2fynr8UafNaWQ3tJ__yJV0da1-RojIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
